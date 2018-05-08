@@ -102,7 +102,7 @@
           "copies": [
             {
               "destination": "<(module_root_dir)/build/Release",
-              "files": ["<(GS4JS_HOME)/<(GS4JS_DLL)", "<(GS4JS_HOME)/<(GS4JS_LIB)"]
+              "files": ["<(GS4JS_HOME)/<(GS4JS_LIB)"]
             }
           ]
         }]
